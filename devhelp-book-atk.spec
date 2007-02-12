@@ -1,5 +1,5 @@
 Summary:	DevHelp book: atk
-Summary(pl):	Ksi±¿ka do DevHelpa o atk
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o atk
 Name:		devhelp-book-atk
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about atk.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o atk.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o atk.
 
 %prep
 %setup -q -c -n atk
