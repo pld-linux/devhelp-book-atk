@@ -1,5 +1,5 @@
 Summary:	DevHelp book: atk
-Summary(pl.UTF-8):   Książka do DevHelpa o atk
+Summary(pl.UTF-8):	Książka do DevHelpa o atk
 Name:		devhelp-book-atk
 Version:	1.0
 Release:	1
